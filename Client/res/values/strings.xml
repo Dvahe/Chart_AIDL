@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="GetData">Get Data</string>
+    <string name="TextBarChart">Bar Chart</string>
+    <string name="TextLineChart">Line Chart</string>
+
+</resources>
