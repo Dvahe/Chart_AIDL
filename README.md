@@ -1,4 +1,1 @@
-Chart_AIDL
-==========
-Client server architecture realization in "Android".
-Created one service application and one clinet aplication.
+This full example demonstrates how to create service application and client application, send request from client to server and get response from service to client. 
